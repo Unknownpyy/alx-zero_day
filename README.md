@@ -1,1 +1,1 @@
-My first readme
+read the fu mnual
